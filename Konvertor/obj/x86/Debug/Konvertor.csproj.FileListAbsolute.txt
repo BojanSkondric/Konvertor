@@ -1,0 +1,9 @@
+C:\Users\1\AppData\Local\Temporary Projects\Konvertor\obj\x86\Debug\Konvertor.Properties.Resources.resources
+C:\Users\1\AppData\Local\Temporary Projects\Konvertor\obj\x86\Debug\Konvertor.csproj.GenerateResource.Cache
+C:\Users\1\AppData\Local\Temporary Projects\Konvertor\bin\Debug\Konvertor.exe
+C:\Users\1\AppData\Local\Temporary Projects\Konvertor\bin\Debug\Konvertor.pdb
+C:\Users\1\AppData\Local\Temporary Projects\Konvertor\obj\x86\Debug\Konvertor.exe
+C:\Users\1\AppData\Local\Temporary Projects\Konvertor\obj\x86\Debug\Konvertor.pdb
+C:\Users\1\AppData\Local\Temporary Projects\Konvertor\obj\x86\Debug\Konvertor.Masa.resources
+C:\Users\1\AppData\Local\Temporary Projects\Konvertor\obj\x86\Debug\Konvertor.Duzina.resources
+C:\Users\1\AppData\Local\Temporary Projects\Konvertor\obj\x86\Debug\Konvertor.Naslovna.resources
