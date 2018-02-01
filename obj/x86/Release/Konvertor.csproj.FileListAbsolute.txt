@@ -1,0 +1,3 @@
+C:\Users\1\AppData\Local\Temporary Projects\Konvertor\obj\x86\Release\Konvertor.Form1.resources
+C:\Users\1\AppData\Local\Temporary Projects\Konvertor\obj\x86\Release\Konvertor.Properties.Resources.resources
+C:\Users\1\AppData\Local\Temporary Projects\Konvertor\obj\x86\Release\Konvertor.csproj.GenerateResource.Cache
