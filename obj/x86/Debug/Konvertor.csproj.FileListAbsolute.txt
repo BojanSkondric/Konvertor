@@ -18,3 +18,15 @@ C:\Users\Bojan\Desktop\Konvertor\obj\x86\Debug\Konvertor.csproj.GenerateResource
 C:\Users\Bojan\Desktop\Konvertor\obj\x86\Debug\Konvertor.csproj.CoreCompileInputs.cache
 C:\Users\Bojan\Desktop\Konvertor\obj\x86\Debug\Konvertor.exe
 C:\Users\Bojan\Desktop\Konvertor\obj\x86\Debug\Konvertor.pdb
+C:\Users\Bojan\Documents\Konvertor\bin\Debug\Konvertor.exe
+C:\Users\Bojan\Documents\Konvertor\bin\Debug\Konvertor.pdb
+C:\Users\Bojan\Documents\Konvertor\obj\x86\Debug\Konvertor.csprojResolveAssemblyReference.cache
+C:\Users\Bojan\Documents\Konvertor\obj\x86\Debug\Konvertor.Duzina.resources
+C:\Users\Bojan\Documents\Konvertor\obj\x86\Debug\Konvertor.Masa.resources
+C:\Users\Bojan\Documents\Konvertor\obj\x86\Debug\Konvertor.Naslovna.resources
+C:\Users\Bojan\Documents\Konvertor\obj\x86\Debug\Konvertor.Povrsina.resources
+C:\Users\Bojan\Documents\Konvertor\obj\x86\Debug\Konvertor.Properties.Resources.resources
+C:\Users\Bojan\Documents\Konvertor\obj\x86\Debug\Konvertor.csproj.GenerateResource.Cache
+C:\Users\Bojan\Documents\Konvertor\obj\x86\Debug\Konvertor.csproj.CoreCompileInputs.cache
+C:\Users\Bojan\Documents\Konvertor\obj\x86\Debug\Konvertor.exe
+C:\Users\Bojan\Documents\Konvertor\obj\x86\Debug\Konvertor.pdb

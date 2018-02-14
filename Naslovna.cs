@@ -45,5 +45,12 @@ namespace Konvertor
         {
 
         }
+
+        private void površinaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Povrsina povrsina = new Povrsina();
+            povrsina.Show();
+            this.Opacity = 0;
+        }
     }
 }

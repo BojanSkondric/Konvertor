@@ -32,6 +32,7 @@
             this.sviKonvertoriToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.masaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.dužinaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.površinaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -50,7 +51,8 @@
             // 
             this.sviKonvertoriToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.masaToolStripMenuItem,
-            this.dužinaToolStripMenuItem});
+            this.dužinaToolStripMenuItem,
+            this.površinaToolStripMenuItem});
             this.sviKonvertoriToolStripMenuItem.Name = "sviKonvertoriToolStripMenuItem";
             this.sviKonvertoriToolStripMenuItem.Size = new System.Drawing.Size(91, 20);
             this.sviKonvertoriToolStripMenuItem.Text = "Svi konvertori";
@@ -68,6 +70,13 @@
             this.dužinaToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.dužinaToolStripMenuItem.Text = "Dužina";
             this.dužinaToolStripMenuItem.Click += new System.EventHandler(this.dužinaToolStripMenuItem_Click_1);
+            // 
+            // površinaToolStripMenuItem
+            // 
+            this.površinaToolStripMenuItem.Name = "površinaToolStripMenuItem";
+            this.površinaToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.površinaToolStripMenuItem.Text = "Površina";
+            this.površinaToolStripMenuItem.Click += new System.EventHandler(this.površinaToolStripMenuItem_Click);
             // 
             // Naslovna
             // 
@@ -91,6 +100,6 @@
         private System.Windows.Forms.ToolStripMenuItem sviKonvertoriToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem masaToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem dužinaToolStripMenuItem;
-
+        private System.Windows.Forms.ToolStripMenuItem površinaToolStripMenuItem;
     }
 }
